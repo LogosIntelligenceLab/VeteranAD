@@ -19,7 +19,7 @@ End-to-end autonomous driving has achieved remarkable advancements in recent yea
 ## BibTeX
 ```bibtex
 @article{zhang2025veteranad,
- title={Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning},
+ title={Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving},
  author={Zhang, Bozhou and Li, Jingyu and Song, Nan and Zhang, Li},
  journal={arXiv preprint},
  year={2025},
