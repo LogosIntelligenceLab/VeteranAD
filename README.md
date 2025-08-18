@@ -1,7 +1,7 @@
 # Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving
-### [[Paper]](https://arxiv.org/abs/XXXX)
+### [[Paper]](https://arxiv.org/abs/2508.11488)
 
-> [**Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving**](https://arxiv.org/abs/XXXX)            
+> [**Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving**](https://arxiv.org/abs/2508.11488)            
 > [Bozhou Zhang](https://zbozhou.github.io/), [Jingyu Li](https://github.com/Whale-ice), [Nan Song](https://scholar.google.com/citations?hl=zh-CN&user=wLZVtjEAAAAJ), [Li Zhang](https://lzrobots.github.io)  
 > **arXiv 2025**
 
