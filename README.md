@@ -14,14 +14,14 @@ End-to-end autonomous driving has achieved remarkable advancements in recent yea
 </div><br/>
 
 ## News
-- 2025.08, the paper is released on arXiv, and the code will be made publicly available upon acceptance.
+- 2025.08, the paper is released on arXiv, and the code will be made publicly available in December 2025.
 
 ## BibTeX
 ```bibtex
-@article{zhang2025veteranad,
+@inproceedings{zhang2025veteranad,
  title={Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving},
  author={Zhang, Bozhou and Li, Jingyu and Song, Nan and Zhang, Li},
- journal={arXiv preprint},
- year={2025},
+ booktitle={AAAI},
+ year={2026},
 }
 ```
