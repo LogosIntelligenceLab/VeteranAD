@@ -19,30 +19,30 @@ CARLA forum</a>
 
 ## Quick start
 
-[**Get ScenarioRunner**](<getting_scenariorunner>) — Tutorial on how to download and launch ScenarioRunner.<br>
+[**Get ScenarioRunner**](getting_scenariorunner.md) — Tutorial on how to download and launch ScenarioRunner.<br>
 
-[**First steps**](<getting_started>) — Brief tutorials on how to run different types of scenarios.<br>
+[**First steps**](getting_started.md) — Brief tutorials on how to run different types of scenarios.<br>
 
-[**Create a new scenario**](<creating_new_scenario>) — Tutorial on how to create a new scenario using ScenarioRunner.<br>
+[**Create a new scenario**](creating_new_scenario.md) — Tutorial on how to create a new scenario using ScenarioRunner.<br>
 
-[**Metrics module**](<metrics_module>) — Explanation of the metrics module.<br>
+[**Metrics module**](metrics_module.md) — Explanation of the metrics module.<br>
 
-[**F.A.Q.**](<FAQ>) — Some of the most frequent installation issues.<br>
+[**F.A.Q.**](FAQ.md) — Some of the most frequent installation issues.<br>
 
-[**Release notes**](<CHANGELOG>) — Features, fixes and other changes listed per release.<br>
+[**Release notes**](CHANGELOG.md) — Features, fixes and other changes listed per release.<br>
 
 
 ## References
 
-[**List of scenarios**](<list_of_scenarios>) — Example scenarios available in ScenarioRunner.<br>
+[**List of scenarios**](list_of_scenarios.md) — Example scenarios available in ScenarioRunner.<br>
 
-[**OpenScenario support**](<openscenario_support>) — Support status of OpenSCENARIO features.<br>
+[**OpenScenario support**](openscenario_support.md) — Support status of OpenSCENARIO features.<br>
 
 
 ## Contributing
-[**Code of conduct**](<CODE_OF_CONDUCT>) — Standard rights and duties for contributors.<br>
+[**Code of conduct**](CODE_OF_CONDUCT.md) — Standard rights and duties for contributors.<br>
 
-[**Coding standard**](<coding_standard>) — Guidelines to write proper code.<br>
+[**Coding standard**](coding_standard.md) — Guidelines to write proper code.<br>
 
-[**Contribution guidelines**](<CONTRIBUTING>) — The different ways to contribute to ScenarioRunner.<br>
+[**Contribution guidelines**](CONTRIBUTING.md) — The different ways to contribute to ScenarioRunner.<br>
 
